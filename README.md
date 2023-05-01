@@ -7,4 +7,4 @@ This ia a Tableau project on Literacy rate in Tamil Nadu. The objective of the p
 ## Data Visualization 
 
 See the [Interactive Dashboard](https://public.tableau.com/app/profile/tableau7010) live on my Tableau Public Profile
-![](Literacy_Rate_in_Tamil_Nadu.png)
+![](Literacy_rate_in_Tamil_Nadu.png)
